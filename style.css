@@ -3,6 +3,7 @@ color:aquamarine(241, 17, 17);
 background:rgb(245, 244, 244);
 margin: 0px;
  font-family: "Comic Relief", system-ui;
+ margin-bottom: 100px;
 }
 
 header {
@@ -41,6 +42,7 @@ p {
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
 .categoria-videos img {
@@ -51,4 +53,8 @@ height: 200px;
 .categoria-videos img:hover{
     opacity: 1.0;
     border:1px solid green;
+}
+
+.categoria h2 {
+    color: rgb(42,122,228);
 }
